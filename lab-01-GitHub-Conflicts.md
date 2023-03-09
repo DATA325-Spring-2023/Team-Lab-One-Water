@@ -1,4 +1,4 @@
-Water
+TeamWater
 ================
 
 # Learning goals
