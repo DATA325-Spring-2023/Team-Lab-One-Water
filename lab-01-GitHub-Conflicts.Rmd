@@ -6,7 +6,7 @@ output: github_document
 
 
 
-```{r setup3, include = FALSE}
+```{r setupnow, include = FALSE}
 knitr::opts_chunk$set(eval = TRUE)
 ```
 
