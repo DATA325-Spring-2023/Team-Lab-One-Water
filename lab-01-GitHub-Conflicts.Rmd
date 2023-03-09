@@ -1,5 +1,6 @@
 ---
-title: "Team Lab 01 - GitHub Conflicts"
+author: "Anna, Jorge"
+title: "Team Water"
 output: github_document
 ---
 
