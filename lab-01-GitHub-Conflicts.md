@@ -1,5 +1,6 @@
-Team Lab 01 - GitHub Conflicts
+Team Water
 ================
+Anna, Jorge
 
 # Learning goals
 

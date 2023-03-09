@@ -1,9 +1,12 @@
 ---
-title: "Team Lab 01 - GitHub Conflicts"
+author: "Anna, Jorge"
+title: "Team Water"
 output: github_document
 ---
 
-```{r setupnow, include = FALSE}
+
+
+```{r setup3, include = FALSE}
 knitr::opts_chunk$set(eval = TRUE)
 ```
 
