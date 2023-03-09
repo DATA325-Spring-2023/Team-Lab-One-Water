@@ -1,4 +1,4 @@
-Team Lab 01 - water
+Team Lab 01 - GitHub Conflicts
 ================
 
 # Learning goals

@@ -1,9 +1,9 @@
 ---
-title: "Team Lab 01 - water"
+title: "Team Lab 01 - GitHub Conflicts"
 output: github_document
 ---
 
-```{r setup, include = FALSE}
+```{r setup3, include = FALSE}
 knitr::opts_chunk$set(eval = TRUE)
 ```
 
